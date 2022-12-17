@@ -1,4 +1,4 @@
-#Optimization Algorithms
+# Optimization-Algorithms
 
 This is my implementations of 3 optimizations algorithms: Hill Climbing, Simulated Annealing, and a Genetic algorithm.
 
